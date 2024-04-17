@@ -1,0 +1,874 @@
+	@media(max-width: 1024px){
+	.glxavor{
+		border: 1px solid transparent;
+		height: 100px;
+		background: black;
+	}
+	.box1{
+		border: 1px solid transparent;
+		height: 100px;
+	}
+	.c{
+		font-size: 60px;
+		color: white;
+	}
+	.a{
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+/*		padding-right: 40px;*/
+	}
+	.ul{
+		display: flex;
+		gap: 25px;
+		list-style-type: none;
+		font-size: 25px;
+	}
+	.b{
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+	}
+	.box1 ul li a{
+		text-decoration: none;
+		color: white;
+	}
+	.ic{
+		border: 1px solid transparent;
+		height: 100px;
+		display: flex;
+		gap: 10px;
+		padding: 35px 20px;
+		color: white;
+	}
+	.v{
+		margin-left: 20px;
+	}
+	.ul li:hover{
+		transition: 1s;
+		background: rgb(243, 0, 100, 1.0);
+	}
+	.glxavor3{
+		border: 1px solid;
+		height: 500px;
+		background: url(nk1.jpg);
+		background-size: 100% 100%	;
+	}
+	.box2{
+		border: 1px solid;
+		height: 500px;
+		backdrop-filter: brightness(30%);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.text1{
+		border: 1px solid transparent;
+		height: 300px;
+		color: white;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.h1{
+		font-size: 70px;
+	}
+	.w{
+		border: 1px solid;
+		height: 700px;
+		background: rgb(0, 128, 190, 1.0);
+	}
+	.box3{
+		border: 1px solid transparent;
+		height: 160px;
+		display: flex;
+		justify-content: center;
+		font-size: 120px;
+		color: skyblue;
+	}
+	.box4{
+		border: 1px solid transparent;
+		height: 110px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: white;
+	}
+	.box5{
+		border: 1px solid transparent;
+		height: 250px;
+	}
+	.icons{
+		border: 1px solid transparent;
+		height: 100%;
+		text-align: center;
+		padding: 50px;
+		color: white;
+	}
+	.us{
+		font-size: 50px;
+		color: black;
+	}
+	.glxavor4{
+		border: 1px solid transparent;
+		height: 500px;
+	}
+	.nkarner{
+		border: 1px solid transparent;
+		height: 50%;
+		background: black;
+	}
+	.nk{
+		border: 1px solid transparent;
+		width: 50%;
+		height: 100%;
+	}
+	.nk2{
+		border: 1px solid;
+		width: 50%;
+		height: 100%;
+	}
+	.nkar{
+		width: 100%;
+		height: 100%;
+	}
+	.b2{
+		border: 1px solid transparent;
+		height: 670px;
+	}
+	.text3{
+		border: 1px solid transparent;
+		height: 200px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 140px;
+		color: gray;
+	}
+	.nka{
+		border: 1px solid transparent;
+		height: 400px;
+		text-align: center;
+	}
+	.nnka{
+		border: 1px solid transparent;
+		height: 100%;
+	}
+	.nnnka{
+		border: 1px solid;
+		height: 250px;
+	}
+	.glxavor5{
+		border: 1px solid transparent;
+		height: 150px;
+		background: rgb(0, 128, 190, 1.0);
+	}
+	.box6{
+		border: 1px solid transparent;
+		height: 150px;
+		display: flex;
+		justify-content: flex-end;
+	}
+	.meji{
+		border: 1px solid transparent;
+		width: 550px;
+		height: 100%;
+		display: flex;
+	}
+	.iic{
+		border: 1px solid transparent;
+		width: 200px;
+		height: 100%;
+		text-align: center;
+		padding-top: 60px;
+	}
+	.text4{
+		border: 1px solid transparent;
+		width: 300px;
+		padding-top: 50px;
+		color: white;
+	}
+	.d{
+		font-size: 60px;
+		color: white;
+	}
+	.glxavor6{
+		border: 1px solid;
+		height: 500px;
+		background: url(nkar1.jpg);
+		background-size: 100% 100%;
+	}
+	.div{
+		border: 1px solid;
+		height: 500px;
+		backdrop-filter: brightness(10%);
+
+	}
+	.div2{
+		border: 1px solid transparent;
+		height: 500px;
+		color: white;
+	}
+	.text5{
+		border: 1px solid transparent;
+		height: 400px;
+		padding: 30px 50px;
+	}
+	.hg{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: white;
+	}
+	.div4{
+		border: 1px solid transparent;
+		width: 250px;
+		height: 30px;
+		margin-top: 40px;
+		background: blue;
+		color: white;
+	}
+	.ad{
+		width: 350px;
+	}
+	.bd{
+		width: 300px;
+	}
+	.text6{
+		border: 1px solid transparent;
+		height: 400px;
+	}
+	.fv{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.our{
+		border: 1px solid transparent;
+		height: 560px;
+	}
+	.team{
+		border: 1px solid transparent;
+		height: 150px;
+		text-align: center;
+	}
+	.h{
+		font-size: 90px;
+		color: rgb(192, 192, 192, 1.0);
+	}
+	.kar{
+		border: 1px solid transparent;
+		height: 300px;
+		display: flex;
+		padding: 0 100px;
+		gap: 20px;
+	}
+	.john{
+		border: 1px solid transparent;
+		width: 350px;
+		height: 300px;
+	}
+	.verj{
+	display: none;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 768px){
+	.glxavor{
+		border: 1px solid transparent;
+		height: 100px;
+		background: black;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		padding-left: 330px;
+	}
+	.box1{
+		border: 1px solid transparent;
+		height: 100px;
+		display: none;
+	}
+	.c{
+		font-size: 40px;
+		color: white;
+		display: none;
+	}
+	.a{
+		display: flex;
+		justify-content: flex-start;
+		align-items: none;
+		padding-bottom: 10px;
+		padding-right: none;
+	}
+	.ul{
+		display: flex;
+		gap: 20px;
+		list-style-type: none;
+		font-size: 22px;
+		display: none;
+	}
+	.b{
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+	}
+	.box1 ul li a{
+		text-decoration: none;
+		color: white;
+	}
+	.ic{
+		border: 1px solid transparent;
+		height: 100px;
+		display: none;
+		gap: 10px;
+		padding: 35px 20px;
+		color: white;
+	}
+	.v{
+		margin-left: 20px;
+	}
+	.ul li:hover{
+		transition: 1s;
+		background: rgb(243, 0, 100, 1.0);
+	}
+	.glxavor3{
+		border: 1px solid;
+		height: 400px;
+		background: url(nk1.jpg);
+		background-size: 100% 100%	;
+	}
+	.box2{
+		border: 1px solid;
+		height: 400px;
+		backdrop-filter: brightness(30%);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.text1{
+		border: 1px solid transparent;
+		height: 300px;
+		color: white;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.h1{
+		font-size: 70px;
+	}
+	.w{
+		border: 1px solid;
+		height: 620px;
+		background: rgb(0, 128, 190, 1.0);
+	}
+	.box3{
+		border: 1px solid transparent;
+		height: 120px;
+		display: flex;
+		justify-content: center;
+		font-size: 105px;
+		color: skyblue;
+	}
+	.box4{
+		border: 1px solid transparent;
+		height: 110px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: white;
+	}
+	.box5{
+		border: 1px solid transparent;
+		height: 350px;
+	}
+	.icons{
+		border: 1px solid transparent;
+		height: 100%;
+		text-align: center;
+		padding: 10px;
+		color: white;
+	}
+	.us{
+		font-size: 50px;
+		color: black;
+	}
+	.glxavor4{
+		border: 1px solid transparent;
+		height: 420px;
+	}
+	.nkarner{
+		border: 1px solid transparent;
+		height: 50%;
+		background: black;
+	}
+	.nk{
+		border: 1px solid transparent;
+		width: 50%;
+		height: 100%;
+	}
+	.nk2{
+		border: 1px solid;
+		width: 50%;
+		height: 100%;
+	}
+	.nkar{
+		width: 100%;
+		height: 100%;
+	}
+	.b2{
+		border: 1px solid transparent;
+		height: 670px;
+	}
+	.text3{
+		border: 1px solid transparent;
+		height: 150px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 120px;
+		color: gray;
+	}
+	.nka{
+		border: 1px solid ;
+		height: 40px;
+		text-align: none;
+	}
+	.nnka{
+		border: 1px solid transparent;
+		height: 100%;
+	}
+	.nnnka{
+		border: 1px solid;
+		height: 200px;
+	}
+	.glxavor5{
+		border: 1px solid transparent;
+		height: 150px;
+		background: rgb(0, 128, 190, 1.0);
+	}
+	.box6{
+		border: 1px solid transparent;
+		height: 150px;
+		display: flex;
+		justify-content: flex-end;
+	}
+	.meji{
+		border: 1px solid transparent;
+		width: 550px;
+		height: 100%;
+		display: flex;
+	}
+	.iic{
+		border: 1px solid transparent;
+		width: 200px;
+		height: 100%;
+		text-align: center;
+		padding-top: 60px;
+	}
+	.text4{
+		border: 1px solid transparent;
+		width: 300px;
+		padding-top: 50px;
+		color: white;
+	}
+	.d{
+		font-size: 60px;
+		color: white;
+	}
+	.glxavor6{
+		border: 1px solid;
+		height: 500px;
+		background: url(nkar1.jpg);
+		background-size: 100% 100%;
+	}
+	.div{
+		border: 1px solid;
+		height: 500px;
+		backdrop-filter: brightness(10%);
+
+	}
+	.div2{
+		border: 1px solid transparent;
+		height: 500px;
+		color: white;
+	}
+	.text5{
+		border: 1px solid transparent;
+		height: 400px;
+		padding: 30px 10px;
+	}
+	.hg{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: white;
+	}
+	.div4{
+		border: 1px solid transparent;
+		width: 250px;
+		height: 30px;
+		margin-top: 40px;
+		background: blue;
+		color: white;
+	}
+	.ad{
+		width: 290px;
+	}
+	.bd{
+		width: 270px;
+	}
+	.text6{
+		border: 1px solid transparent;
+		height: 400px;
+	}
+	.fv{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.our{
+		border: 1px solid transparent;
+		height: 400px;
+	}
+	.team{
+		border: 1px solid transparent;
+		height: 150px;
+		text-align: center;
+	}
+	.h{
+		font-size: 90px;
+		color: rgb(192, 192, 192, 1.0);
+	}
+	.kar{
+		border: 1px solid transparent;
+		height: 300px;
+		display: flex;
+		padding: 0 100px;
+		gap: 20px;
+	}
+	.john{
+		border: 1px solid transparent;
+		width: 350px;
+		height: 200px;
+	}
+	.verj{
+		display: block;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 425px){
+	.glxavor{
+		border: 1px solid transparent;
+		height: 100px;
+		background: black;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		padding-left: 50%;
+	}
+	.box1{
+		border: 1px solid transparent;
+		height: 100px;
+		display: none;
+	}
+	.c{
+		font-size: 40px;
+		color: white;
+		display: none;
+	}
+	.a{
+		display: flex;
+		justify-content: flex-start;
+		align-items: none;
+		padding-bottom: 10px;
+		padding-right: none;
+	}
+	.ul{
+		display: flex;
+		gap: 20px;
+		list-style-type: none;
+		font-size: 22px;
+		display: none;
+	}
+	.b{
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+	}
+	.box1 ul li a{
+		text-decoration: none;
+		color: white;
+	}
+	.ic{
+		border: 1px solid transparent;
+		height: 100px;
+		display: none;
+		gap: 10px;
+		padding: 35px 20px;
+		color: white;
+	}
+	.v{
+		margin-left: 20px;
+	}
+	.ul li:hover{
+		transition: 1s;
+		background: rgb(243, 0, 100, 1.0);
+	}
+	.glxavor3{
+		border: 1px solid;
+		height: 400px;
+		background: url(nk1.jpg);
+		background-size: 100% 100%	;
+	}
+	.box2{
+		border: 1px solid;
+		height: 400px;
+		backdrop-filter: brightness(30%);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.text1{
+		border: 1px solid transparent;
+		height: 300px;
+		color: white;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.h1{
+		font-size: 70px;
+	}
+	.w{
+		border: 1px solid;
+		height: 620px;
+		background: rgb(0, 128, 190, 1.0);
+	}
+	.box3{
+		border: 1px solid transparent;
+		height: 120px;
+		display: flex;
+		justify-content: center;
+		font-size: 105px;
+		color: skyblue;
+	}
+	.box4{
+		border: 1px solid transparent;
+		height: 110px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: white;
+	}
+	.box5{
+		border: 1px solid transparent;
+		height: 350px;
+	}
+	.icons{
+		border: 1px solid transparent;
+		height: 100%;
+		text-align: center;
+		padding: 10px;
+		color: white;
+	}
+	.us{
+		font-size: 50px;
+		color: black;
+	}
+	.glxavor4{
+		border: 1px solid transparent;
+		height: 420px;
+	}
+	.nkarner{
+		border: 1px solid transparent;
+		height: 50%;
+		background: black;
+	}
+	.nk{
+		border: 1px solid transparent;
+		width: 50%;
+		height: 100%;
+	}
+	.nk2{
+		border: 1px solid;
+		width: 50%;
+		height: 100%;
+	}
+	.nkar{
+		width: 100%;
+		height: 100%;
+	}
+	.b2{
+		border: 1px solid transparent;
+		height: 670px;
+	}
+	.text3{
+		border: 1px solid transparent;
+		height: 150px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 120px;
+		color: gray;
+	}
+	.nka{
+		border: 1px solid ;
+		height: 40px;
+		text-align: none;
+	}
+	.nnka{
+		border: 1px solid transparent;
+		height: 100%;
+		font-size: 12px;
+	}
+	.nnnka{
+		border: 1px solid;
+		height: 200px;
+	}
+	.glxavor5{
+		border: 1px solid transparent;
+		height: 150px;
+		background: rgb(0, 128, 190, 1.0);
+	}
+	.box6{
+		border: 1px solid transparent;
+		height: 150px;
+		display: flex;
+		justify-content: flex-end;
+	}
+	.meji{
+		border: 1px solid transparent;
+		width: 550px;
+		height: 100%;
+		display: flex;
+	}
+	.iic{
+		border: 1px solid transparent;
+		width: 200px;
+		height: 100%;
+		text-align: center;
+		padding-top: 60px;
+	}
+	.text4{
+		border: 1px solid transparent;
+		width: 300px;
+		padding-top: 50px;
+		color: white;
+		font-size: 10px;
+	}
+	.d{
+		font-size: 30px;
+		color: white;
+	}
+	.glxavor6{
+		border: 1px solid;
+		height: 500px;
+		background: url(nkar1.jpg);
+		background-size: 100% 100%;
+	}
+	.div{
+		border: 1px solid;
+		height: 500px;
+		backdrop-filter: brightness(10%);
+
+	}
+	.div2{
+		border: 1px solid transparent;
+		height: 460px;
+		color: white;
+	}
+	.text5{
+		border: 1px solid transparent;
+		height: 250px;
+		padding: 0px 0px;
+		font-size: 12px;
+	}
+	.hg{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: white;
+	}
+	.div4{
+		border: 1px solid transparent;
+		width: 250px;
+		height: 30px;
+		margin-top: 20px;
+		background: blue;
+		color: white;
+	}
+	.ad{
+		width: 290px;
+	}
+	.bd{
+		width: 270px;
+	}
+	.text6{
+		border: 1px solid transparent;
+		height: 100px;
+	}
+	.fv{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.our{
+		border: 1px solid transparent;
+		height: 300px;
+	}
+	.team{
+		border: 1px solid transparent;
+		height: 100px;
+		text-align: center;
+	}
+	.h{
+		font-size: 90px;
+		color: rgb(192, 192, 192, 1.0);
+	}
+	.kar{
+		border: 1px solid transparent;
+		height: 300px;
+		display: flex;
+		padding: 20px 0px;
+		gap: 20px;
+	}
+	.john{
+		border: 1px solid transparent;
+		width: 250px;
+		height: 100px;
+	}
+	.verj{
+		display: block;
+	}
+}
